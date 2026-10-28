@@ -1,0 +1,33 @@
+{
+    "graphics": {
+        "remove_grass": true,
+        "grass_distance": 0,
+        "potato_landscape": true,
+        "clear_players": true,
+        "low_shadows": true,
+        "low_effects": true,
+        "disable_antialiasing": true,
+        "uncapped_fps": true
+    },
+    "audio": {
+        "optimize_audio": true
+    },
+    "input": {
+        "optimize_input": true
+    },
+    "performance": {
+        "optimize_performance": true
+    },
+    "driver_optimization": {
+        "timer_resolution": true,
+        "cpu_affinity": true,
+        "cpu_cores": "all",
+        "disable_fullscreen_optimizations": true,
+        "enable_game_mode": true,
+        "disable_game_bar": true,
+        "optimize_power_plan": true,
+        "optimize_network": true,
+        "memory_optimization": true
+    },
+    "last_config_path": "C:\\Users\\MyAngel\\AppData\\Local\\TslGame\\Saved\\Config\\WindowsNoEditor"
+}
